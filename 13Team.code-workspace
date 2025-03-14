@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Hakaton/css"
+		},
+		{
+			"path": "../Hakaton/images"
+		},
+		{
+			"path": "../Hakaton/styles"
+		}
+	],
+	"settings": {}
+}
